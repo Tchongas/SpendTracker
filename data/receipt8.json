@@ -11,7 +11,8 @@
       "category": "Iogurte",
       "name": "iogurte flan",
       "quantity": 1,
-      "unit_price": 7.99
+      "unit_price": 7.99,
+      "total_price": 7.99
     },
       {
       "category": "Biscoitos",
@@ -24,7 +25,8 @@
       "category": "Limpeza",
       "name": "Sabao 500ml",
       "quantity": 1,
-      "unit_price": 8.49
+      "unit_price": 8.49,
+      "total_price": 8.49
     },
       {
       "category": "Limpeza",
