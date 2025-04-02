@@ -1,0 +1,75 @@
+{
+    "items": [
+      {
+        "category": "Verdura",
+        "name": "CEBOLA BRANCA GRANEL",
+        "quantity": 0.579,
+        "unit_price": 3.99,
+        "total_price": 2.31
+      },
+      {
+        "category": "Molho",
+        "name": "MOLHO TOMATE HEINZ TRAD SH300G",
+        "quantity": 1,
+        "unit_price": 3.99,
+        "total_price": 3.99
+      },
+      {
+        "category": "Molho",
+        "name": "MOLHO TOM SALSARRETTI TRAD SH300G",
+        "quantity": 1,
+        "unit_price": 2.49,
+        "total_price": 2.49
+      },
+      {
+        "category": "Molho",
+        "name": "MOLHO TOMATE CAJAMAR 300G",
+        "quantity": 1,
+        "unit_price": 1.59,
+        "total_price": 1.59
+      },
+      {
+        "category": "Limpeza",
+        "name": "AG SANITARIA SPLENDOR IL",
+        "quantity": 1,
+        "unit_price": 3.98,
+        "total_price": 3.98
+      },
+      {
+        "category": "Biscoitos",
+        "name": "BISC ADLAIS MILHO 300G",
+        "quantity": 2,
+        "unit_price": 6.48,
+        "total_price": 12.96
+      },
+      {
+        "category": "Outros",
+        "name": "MIST BOLO ORQUIDEA ABACAXI 350G",
+        "quantity": 1,
+        "unit_price": 5.69,
+        "total_price": 5.69
+      },
+      {
+        "category": "Molho",
+        "name": "MOLHO MADEIRA ELITE VINHO TP200G",
+        "quantity": 1,
+        "unit_price": 4.29,
+        "total_price": 4.29
+      },
+      {
+        "category": "Massa",
+        "name": "MASSA FURADINHA ISABELA 400G",
+        "quantity": 1,
+        "unit_price": 3.69,
+        "total_price": 3.69
+      },
+      {
+        "category": "Leite",
+        "name": "CREME LEITE PIRAC TP200G",
+        "quantity": 4,
+        "unit_price": 2.68,
+        "total_price": 10.72
+      }
+    ],
+    "total_spent": 51.71
+  }

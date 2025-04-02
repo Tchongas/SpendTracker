@@ -1,0 +1,26 @@
+{
+    "items": [
+      {
+        "category": "Leite",
+        "name": "DOCE DE LEITE 350g",
+        "quantity": 1,
+        "unit_price": 11.99,
+        "total_price": 11.99
+      },
+    {
+        "category": "Verdura",
+        "name": "Limao Taiti",
+        "quantity": 0.175,
+        "unit_price": 5.99,
+        "total_price": 1.05
+      },
+      {
+        "category": "Temperos",
+        "name": "Alho Frito",
+        "quantity": 1,
+        "unit_price": 3.99,
+        "total_price": 3.99
+      }
+    ],
+    "total_spent": 17.04
+}

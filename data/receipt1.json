@@ -1,0 +1,33 @@
+{
+    "items": [
+      {
+        "category": "Limpeza",
+        "name": "PAST ADESIVA PATO LAVAND C/3PROM",
+        "quantity": 2,
+        "unit_price": 6.79,
+        "total_price": 13.58
+      },
+      {
+        "category": "Queijo",
+        "name": "CREAM CH PHILADELPHIA 300G",
+        "quantity": 1,
+        "unit_price": 17.90,
+        "total_price": 17.90
+      },
+      {
+        "category": "Limpeza",
+        "name": "LIMP COZ VEJA LIMAD SH400ML",
+        "quantity": 1,
+        "unit_price": 8.97,
+        "total_price": 8.97
+      },
+      {
+        "category": "Queijo",
+        "name": "QJO MUSSARELA S. CLARA FAT 300G",
+        "quantity": 1,
+        "unit_price": 17.99,
+        "total_price": 17.99
+      }
+    ],
+    "total_spent": 58.44
+  }

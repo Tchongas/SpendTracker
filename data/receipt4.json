@@ -1,0 +1,68 @@
+{
+    "items": [
+      {
+        "category": "Leite",
+        "name": "CREME LEITE PARMALAT TP200G",
+        "quantity": 2,
+        "unit_price": 3.38,
+        "total_price": 6.76
+      },
+      {
+        "category": "Condimentos",
+        "name": "MOSTARDA ODERICH 190G",
+        "quantity": 1,
+        "unit_price": 3.99,
+        "total_price": 3.99
+      },
+      {
+        "category": "Temperos",
+        "name": "OREGANO BRAVINE 50G",
+        "quantity": 1,
+        "unit_price": 5.69,
+        "total_price": 5.69
+      },
+      {
+        "category": "Temperos",
+        "name": "CALDO PO SAZON CARNE 32,5G",
+        "quantity": 1,
+        "unit_price": 2.99,
+        "total_price": 2.99
+      },
+      {
+        "category": "Queijo",
+        "name": "QJO MUSSARELA S. CLARA FAT 300G",
+        "quantity": 1,
+        "unit_price": 18.99,
+        "total_price": 18.99
+      },
+      {
+        "category": "Temperos",
+        "name": "PAPRICA MERCATTO DOCE SH35G",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "category": "Molhos",
+        "name": "TEMP MOLHO MASSA TERRA RICA 70G",
+        "quantity": 1,
+        "unit_price": 6.49,
+        "total_price": 6.49
+      },
+      {
+        "category": "Temperos",
+        "name": "CURRY TERRA RICA PO 50G",
+        "quantity": 1,
+        "unit_price": 4.49,
+        "total_price": 4.49
+      },
+      {
+        "category": "Temperos",
+        "name": "CALDO MAGGI EQUILIB LEGUMES 57G",
+        "quantity": 2,
+        "unit_price": 2.59,
+        "total_price": 5.18
+      }
+    ],
+    "total_spent": 59.57
+  }

@@ -1,0 +1,89 @@
+{
+    "items": [
+      {
+        "category": "Iogurte",
+        "name": "BEB L BATAVO MORANGO 510G",
+        "quantity": 1,
+        "unit_price": 5.19,
+        "total_price": 5.19
+      },
+      {
+        "category": "Ingredientes",
+        "name": "MARG QUALY CREMOSA S/SAL 250G",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "category": "Peixe",
+        "name": "ATUM COQUEIRO AGUA RAL 170G",
+        "quantity": 1,
+        "unit_price": 8.99,
+        "total_price": 8.99
+      },
+      {
+        "category": "Limpeza",
+        "name": "SACO LIXO UTILO 30L C/10",
+        "quantity": 1,
+        "unit_price": 5.99,
+        "total_price": 5.99
+      },
+      {
+        "category": "Limpeza",
+        "name": "SACO LIXO DR U.DET PIA/BANH C/50",
+        "quantity": 1,
+        "unit_price": 15.80,
+        "total_price": 15.80
+      },
+      {
+        "category": "Farinha",
+        "name": "FAR DE PANKO G.DIVINO 200G",
+        "quantity": 1,
+        "unit_price": 8.98,
+        "total_price": 8.98
+      },
+      {
+        "category": "Arroz",
+        "name": "ARROZ B. VILLE PARB T1 1KG",
+        "quantity": 1,
+        "unit_price": 4.89,
+        "total_price": 4.89
+      },
+      {
+        "category": "Outros",
+        "name": "MASSA PIZZA ROMENA 150G",
+        "quantity": 1,
+        "unit_price": 4.59,
+        "total_price": 4.59
+      },
+       {
+        "category": "Whey",
+        "name": "BEB L PARMALAT WHEY BAUN 250ML",
+        "quantity": 2,
+        "unit_price": 6.99,
+        "total_price": 13.98
+      },
+      {
+        "category": "Whey",
+        "name": "BEB L PARMALAT WHEY CHOC 250ML",
+        "quantity": 2,
+        "unit_price": 6.99,
+        "total_price": 13.98
+      },
+      {
+        "category": "Iogurte",
+        "name": "IOG INT BATAVO MEL 170G",
+        "quantity": 2,
+        "unit_price": 3.25,
+        "total_price": 6.50
+      },
+      {
+        "category": "Agua",
+        "name": "AG MINERAL AGUA D. PEDRA S/GAS 5L",
+        "quantity": 1,
+        "unit_price": 7.49,
+        "total_price": 7.49
+      }
+    ],
+    "total_spent": 101.37
+  }

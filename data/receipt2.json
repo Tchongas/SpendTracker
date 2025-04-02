@@ -1,0 +1,33 @@
+{
+    "items": [
+      {
+        "category": "Refrigerante",
+        "name": "COCA-COLA S/ACUCAR LATA 350ML",
+        "quantity": 1,
+        "unit_price": 3.29,
+        "total_price": 3.29
+      },
+      {
+        "category": "Limpeza",
+        "name": "DESINF GIRANDOSOL PINHO 2L",
+        "quantity": 1,
+        "unit_price": 10.90,
+        "total_price": 10.90
+      },
+      {
+        "category": "Agua",
+        "name": "AG MINERAL TUTTIBLU S/GAS 5L",
+        "quantity": 1,
+        "unit_price": 6.75,
+        "total_price": 6.75
+      },
+      {
+        "category": "Limpeza",
+        "name": "LIMP VEJA PERF JASMIM 2L 1UN",
+        "quantity": 1,
+        "unit_price": 13.70,
+        "total_price": 13.70
+      }
+    ],
+    "total_spent": 34.64
+  }

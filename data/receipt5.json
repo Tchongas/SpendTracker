@@ -1,0 +1,47 @@
+{
+    "items": [
+      {
+        "category": "Agua",
+        "name": "AG MINERAL AGUA D. PEDRA S/GAS 5L",
+        "quantity": 1,
+        "unit_price": 6.99,
+        "total_price": 6.99
+      },
+      {
+        "category": "Chocolate",
+        "name": "B CER RITTER BROWN BR 60G",
+        "quantity": 1,
+        "unit_price": 4.99,
+        "total_price": 4.99
+      },
+      {
+        "category": "Verdura",
+        "name": "TOMATE GRAPE DOCE 180G",
+        "quantity": 1,
+        "unit_price": 3.79,
+        "total_price": 3.79
+      },
+      {
+        "category": "Pao",
+        "name": "PAD RAP10 TRADICIONAL 297G",
+        "quantity": 2,
+        "unit_price": 11.79,
+        "total_price": 23.58
+      },
+      {
+        "category": "Pao",
+        "name": "PAD CACETINHO",
+        "quantity": 0.264,
+        "unit_price": 14.90,
+        "total_price": 3.93
+      },
+      {
+        "category": "Outros",
+        "name": "BATATA FININHA B.BRASIL 700G",
+        "quantity": 1,
+        "unit_price": 14.90,
+        "total_price": 14.90
+      }
+    ],
+    "total_spent": 58.08
+  }

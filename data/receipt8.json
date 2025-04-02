@@ -1,0 +1,45 @@
+{
+    "items":[
+    {
+      "category": "Limpeza",
+      "name": "papel higienico",
+      "quantity": 1,
+      "unit_price": 23.99,
+      "total_price": 23.99
+    },
+    {
+      "category": "Iogurte",
+      "name": "iogurte flan",
+      "quantity": 1,
+      "unit_price": 7.99
+    },
+      {
+      "category": "Biscoitos",
+      "name": "Oreo",
+      "quantity": 1,
+      "unit_price": 4.19,
+      "total_price": 4.19
+    },
+      {
+      "category": "Limpeza",
+      "name": "Sabao 500ml",
+      "quantity": 1,
+      "unit_price": 8.49
+    },
+      {
+      "category": "Limpeza",
+      "name": "Desinfetante 800ml",
+      "quantity": 1,
+      "unit_price": 8.99,
+      "total_price": 8.99
+    },
+      {
+      "category": "Leite",
+      "name": "Creme de leite",
+      "quantity": 2,
+      "unit_price": 3.19,
+      "total_price": 6.38
+    }
+  ],
+  "total_spent": 60.03
+}

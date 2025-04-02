@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Receipt Viewer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      color: #333;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    
+    h1, h2, h3 {
+      color: #2c3e50;
+    }
+    
+    .controls {
+      margin-bottom: 20px;
+      display: flex;
+      gap: 15px;
+      align-items: center;
+    }
+    
+    button, select {
+      padding: 8px 12px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      background-color: #f8f9fa;
+      cursor: pointer;
+    }
+    
+    button:hover {
+      background-color: #e9ecef;
+    }
+    
+    #loading-indicator {
+      text-align: center;
+      padding: 20px;
+      display: none;
+    }
+    
+    #error-message {
+      background-color: #f8d7da;
+      color: #721c24;
+      padding: 10px;
+      border-radius: 4px;
+      margin-bottom: 20px;
+      display: none;
+    }
+    
+    .summary-section {
+      background-color: #e9f7ef;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+    }
+    
+    .receipts-section {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+      gap: 20px;
+    }
+    
+    .receipt-card {
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 15px;
+      background-color: #fff;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    
+    .receipt-total {
+      font-size: 1.2em;
+      font-weight: bold;
+      margin: 10px 0;
+      color: #2c3e50;
+    }
+    
+    .toggle-details {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+    
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 10px;
+    }
+    
+    th, td {
+      border: 1px solid #ddd;
+      padding: 8px;
+      text-align: left;
+    }
+    
+    th {
+      background-color: #f2f2f2;
+    }
+    
+    tr:nth-child(even) {
+      background-color: #f9f9f9;
+    }
+  </style>
+</head>
+<body>
+  <h1>Recibos e tals</h1>
+  
+  <div class="controls">
+    <button id="sort-button">Organize pelo total (Maior a menor)</button>
+    
+    <select id="category-filter">
+      <option value="all">Todas categorias</option>
+      <option value="Carnes">Carnes</option>
+      <option value="Massa">Massa</option>
+      <option value="Cream Cheese">Cream Cheese</option>
+      <option value="Limpeza">Limpeza</option>
+      <option value="Queijo">Queijo</option>
+      <option value="Agua">Agua</option>
+      <option value="Ingredientes">Ingredientes</option>
+      <option value="Iogurte">Iogurte</option>
+      <option value="Farinha">Farinha</option>
+      <option value="Arroz">Arroz</option>
+      <option value="Whey">Whey</option>
+      <option value="Temperos">Temperos</option>
+      <option value="Molhos">Molhos</option>
+      <option value="Condimentos">Condimentos</option>
+      <option value="Leite">Leite</option>
+      <option value="Chocolate">Chocolate</option>
+      <option value="Verdura">Verdura</option>
+      <option value="Pao">Pao</option>
+      <option value="Biscoitos">Biscoitos</option>
+      <option value="Outros">Outros</option>
+      <!-- Add more categories as needed -->
+    </select>
+  </div>
+  
+  <div id="error-message"></div>
+  
+  <div id="loading-indicator">
+    Carregando
+  </div>
+  
+  <div id="receipts-container"></div>
+  
+  <script src="./scripts/main.js"></script>
+</body>
+</html>

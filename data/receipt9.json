@@ -1,0 +1,33 @@
+{
+    "items": [
+      {
+        "category": "Carnes",
+        "name": "Filezinho frango 750g",
+        "quantity": 1,
+        "unit_price": 21.99,
+        "total_price": 21.99
+      },
+      {
+        "category": "Carnes",
+        "name": "Tiras frango",
+        "quantity": 1,
+        "unit_price": 20.99,        
+        "total_price": 20.99
+      },
+      {
+        "category": "Massa",
+        "name": "Massa ovos 500g",
+        "quantity": 1,
+        "unit_price": 3.50,
+        "total_price": 3.50
+      },
+      {
+        "category": "Massa",
+        "name": "Massa ovos 500g",
+        "quantity": 1,
+        "unit_price": 3.50,
+        "total_price": 3.50
+      }
+    ],
+    "total_spent": 49.98
+  }
